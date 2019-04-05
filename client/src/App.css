@@ -47,12 +47,13 @@
   font-weight: 300;
   color: #FFF;
   text-align: left;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 .login-form > .login-input > input {
   width: 100%;
-  padding: .875rem 1.25rem;
+  padding: 0.5rem;
   margin: 1rem 0;
+  font-size: 1rem;
   border: 1px solid #DCDFEE;
   border-radius: 2px;
   box-sizing: border-box;
